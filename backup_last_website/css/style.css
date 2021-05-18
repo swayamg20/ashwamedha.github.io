@@ -1,0 +1,17 @@
+.container {
+  margin-top: 20px;
+}
+.container progress {
+  width: 100%;
+}
+
+input {
+  transition: all 0.5s;
+}
+@font-face {
+font-family: "SAMARKAN";
+src: url("SAMARN.eot");
+src: url("SAMARN.woff") format("woff"),
+src: url("css/font-awesome/webfonts/SAMARN.otf") format("opentype"),
+src: url("SAMARN.svg#SAMARN") format("svg");
+}
